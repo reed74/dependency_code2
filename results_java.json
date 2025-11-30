@@ -1,0 +1,8372 @@
+[
+  {
+    "dependency": {
+      "name": "./tools/github-actions/setup-deps",
+      "version": "UNKNOWN",
+      "type": "github-action",
+      "purl": ""
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "./tools/github-actions/setup-deps",
+      "version": "UNKNOWN",
+      "type": "github-action",
+      "purl": ""
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "./tools/github-actions/setup-deps",
+      "version": "UNKNOWN",
+      "type": "github-action",
+      "purl": ""
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "./tools/github-actions/setup-deps",
+      "version": "UNKNOWN",
+      "type": "github-action",
+      "purl": ""
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "alloc/quick-lru",
+      "version": "5.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40alloc/quick-lru@5.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "alloc"
+  },
+  {
+    "dependency": {
+      "name": "ampproject/remapping",
+      "version": "2.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40ampproject/remapping@2.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "ampproject"
+  },
+  {
+    "dependency": {
+      "name": "babel/runtime",
+      "version": "7.27.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40babel/runtime@7.27.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "babel"
+  },
+  {
+    "dependency": {
+      "name": "cfworker/json-schema",
+      "version": "4.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40cfworker/json-schema@4.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "cfworker"
+  },
+  {
+    "dependency": {
+      "name": "emnapi/core",
+      "version": "1.4.3",
+      "type": "npm",
+      "purl": "pkg:npm/%40emnapi/core@1.4.3"
+    },
+    "vulnerabilities": [],
+    "vendor": "emnapi"
+  },
+  {
+    "dependency": {
+      "name": "emnapi/runtime",
+      "version": "1.4.3",
+      "type": "npm",
+      "purl": "pkg:npm/%40emnapi/runtime@1.4.3"
+    },
+    "vulnerabilities": [],
+    "vendor": "emnapi"
+  },
+  {
+    "dependency": {
+      "name": "emnapi/wasi-threads",
+      "version": "1.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40emnapi/wasi-threads@1.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "emnapi"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/aix-ppc64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/aix-ppc64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/android-arm",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/android-arm@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/android-arm64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/android-arm64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/android-x64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/android-x64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/darwin-arm64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/darwin-arm64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/darwin-x64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/darwin-x64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/freebsd-arm64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/freebsd-arm64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/freebsd-x64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/freebsd-x64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/linux-arm",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/linux-arm@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/linux-arm64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/linux-arm64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/linux-ia32",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/linux-ia32@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/linux-loong64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/linux-loong64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/linux-mips64el",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/linux-mips64el@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/linux-ppc64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/linux-ppc64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/linux-riscv64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/linux-riscv64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/linux-s390x",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/linux-s390x@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/linux-x64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/linux-x64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/netbsd-arm64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/netbsd-arm64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/netbsd-x64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/netbsd-x64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/openbsd-arm64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/openbsd-arm64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/openbsd-x64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/openbsd-x64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/sunos-x64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/sunos-x64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/win32-arm64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/win32-arm64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/win32-ia32",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/win32-ia32@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "esbuild/win32-x64",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40esbuild/win32-x64@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "esbuild"
+  },
+  {
+    "dependency": {
+      "name": "eslint-community/eslint-utils",
+      "version": "4.7.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40eslint-community/eslint-utils@4.7.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "eslint-community"
+  },
+  {
+    "dependency": {
+      "name": "eslint-community/regexpp",
+      "version": "4.12.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40eslint-community/regexpp@4.12.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "eslint-community"
+  },
+  {
+    "dependency": {
+      "name": "eslint/config-array",
+      "version": "0.20.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40eslint/config-array@0.20.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "eslint"
+  },
+  {
+    "dependency": {
+      "name": "eslint/config-helpers",
+      "version": "0.2.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40eslint/config-helpers@0.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "eslint"
+  },
+  {
+    "dependency": {
+      "name": "eslint/core",
+      "version": "0.14.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40eslint/core@0.14.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "eslint"
+  },
+  {
+    "dependency": {
+      "name": "eslint/eslintrc",
+      "version": "3.3.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40eslint/eslintrc@3.3.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "eslint"
+  },
+  {
+    "dependency": {
+      "name": "eslint/js",
+      "version": "9.27.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40eslint/js@9.27.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "eslint"
+  },
+  {
+    "dependency": {
+      "name": "eslint/object-schema",
+      "version": "2.1.6",
+      "type": "npm",
+      "purl": "pkg:npm/%40eslint/object-schema@2.1.6"
+    },
+    "vulnerabilities": [],
+    "vendor": "eslint"
+  },
+  {
+    "dependency": {
+      "name": "eslint/plugin-kit",
+      "version": "0.3.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40eslint/plugin-kit@0.3.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "eslint"
+  },
+  {
+    "dependency": {
+      "name": "floating-ui/core",
+      "version": "1.7.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40floating-ui/core@1.7.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "floating-ui"
+  },
+  {
+    "dependency": {
+      "name": "floating-ui/dom",
+      "version": "1.7.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40floating-ui/dom@1.7.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "floating-ui"
+  },
+  {
+    "dependency": {
+      "name": "floating-ui/react-dom",
+      "version": "2.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40floating-ui/react-dom@2.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "floating-ui"
+  },
+  {
+    "dependency": {
+      "name": "floating-ui/utils",
+      "version": "0.2.9",
+      "type": "npm",
+      "purl": "pkg:npm/%40floating-ui/utils@0.2.9"
+    },
+    "vulnerabilities": [],
+    "vendor": "floating-ui"
+  },
+  {
+    "dependency": {
+      "name": "humanfs/core",
+      "version": "0.19.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40humanfs/core@0.19.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "humanfs"
+  },
+  {
+    "dependency": {
+      "name": "humanfs/node",
+      "version": "0.16.6",
+      "type": "npm",
+      "purl": "pkg:npm/%40humanfs/node@0.16.6"
+    },
+    "vulnerabilities": [],
+    "vendor": "humanfs"
+  },
+  {
+    "dependency": {
+      "name": "humanwhocodes/module-importer",
+      "version": "1.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40humanwhocodes/module-importer@1.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "humanwhocodes"
+  },
+  {
+    "dependency": {
+      "name": "humanwhocodes/retry",
+      "version": "0.3.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40humanwhocodes/retry@0.3.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "humanwhocodes"
+  },
+  {
+    "dependency": {
+      "name": "humanwhocodes/retry",
+      "version": "0.4.3",
+      "type": "npm",
+      "purl": "pkg:npm/%40humanwhocodes/retry@0.4.3"
+    },
+    "vulnerabilities": [],
+    "vendor": "humanwhocodes"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-darwin-arm64",
+      "version": "0.34.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-darwin-arm64@0.34.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-darwin-x64",
+      "version": "0.34.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-darwin-x64@0.34.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-libvips-darwin-arm64",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-libvips-darwin-arm64@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-libvips-darwin-x64",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-libvips-darwin-x64@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-libvips-linux-arm",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-libvips-linux-arm@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-libvips-linux-arm64",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-libvips-linux-arm64@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-libvips-linux-ppc64",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-libvips-linux-ppc64@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-libvips-linux-s390x",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-libvips-linux-s390x@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-libvips-linux-x64",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-libvips-linux-x64@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-libvips-linuxmusl-arm64",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-libvips-linuxmusl-arm64@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-libvips-linuxmusl-x64",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-libvips-linuxmusl-x64@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-linux-arm",
+      "version": "0.34.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-linux-arm@0.34.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-linux-arm64",
+      "version": "0.34.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-linux-arm64@0.34.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-linux-s390x",
+      "version": "0.34.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-linux-s390x@0.34.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-linux-x64",
+      "version": "0.34.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-linux-x64@0.34.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-linuxmusl-arm64",
+      "version": "0.34.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-linuxmusl-arm64@0.34.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-linuxmusl-x64",
+      "version": "0.34.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-linuxmusl-x64@0.34.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-wasm32",
+      "version": "0.34.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-wasm32@0.34.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-win32-ia32",
+      "version": "0.34.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-win32-ia32@0.34.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "img/sharp-win32-x64",
+      "version": "0.34.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40img/sharp-win32-x64@0.34.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "img"
+  },
+  {
+    "dependency": {
+      "name": "isaacs/fs-minipass",
+      "version": "4.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40isaacs/fs-minipass@4.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "isaacs"
+  },
+  {
+    "dependency": {
+      "name": "jridgewell/gen-mapping",
+      "version": "0.3.8",
+      "type": "npm",
+      "purl": "pkg:npm/%40jridgewell/gen-mapping@0.3.8"
+    },
+    "vulnerabilities": [],
+    "vendor": "jridgewell"
+  },
+  {
+    "dependency": {
+      "name": "jridgewell/resolve-uri",
+      "version": "3.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40jridgewell/resolve-uri@3.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "jridgewell"
+  },
+  {
+    "dependency": {
+      "name": "jridgewell/set-array",
+      "version": "1.2.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40jridgewell/set-array@1.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "jridgewell"
+  },
+  {
+    "dependency": {
+      "name": "jridgewell/sourcemap-codec",
+      "version": "1.5.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40jridgewell/sourcemap-codec@1.5.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "jridgewell"
+  },
+  {
+    "dependency": {
+      "name": "jridgewell/trace-mapping",
+      "version": "0.3.25",
+      "type": "npm",
+      "purl": "pkg:npm/%40jridgewell/trace-mapping@0.3.25"
+    },
+    "vulnerabilities": [],
+    "vendor": "jridgewell"
+  },
+  {
+    "dependency": {
+      "name": "langchain/core",
+      "version": "0.3.56",
+      "type": "npm",
+      "purl": "pkg:npm/%40langchain/core@0.3.56"
+    },
+    "vulnerabilities": [],
+    "vendor": "langchain"
+  },
+  {
+    "dependency": {
+      "name": "langchain/langgraph",
+      "version": "0.2.72",
+      "type": "npm",
+      "purl": "pkg:npm/%40langchain/langgraph@0.2.72"
+    },
+    "vulnerabilities": [],
+    "vendor": "langchain"
+  },
+  {
+    "dependency": {
+      "name": "langchain/langgraph-checkpoint",
+      "version": "0.0.17",
+      "type": "npm",
+      "purl": "pkg:npm/%40langchain/langgraph-checkpoint@0.0.17"
+    },
+    "vulnerabilities": [],
+    "vendor": "langchain"
+  },
+  {
+    "dependency": {
+      "name": "langchain/langgraph-sdk",
+      "version": "0.0.73",
+      "type": "npm",
+      "purl": "pkg:npm/%40langchain/langgraph-sdk@0.0.73"
+    },
+    "vulnerabilities": [],
+    "vendor": "langchain"
+  },
+  {
+    "dependency": {
+      "name": "langchain/langgraph-sdk",
+      "version": "0.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40langchain/langgraph-sdk@0.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "langchain"
+  },
+  {
+    "dependency": {
+      "name": "napi-rs/wasm-runtime",
+      "version": "0.2.10",
+      "type": "npm",
+      "purl": "pkg:npm/%40napi-rs/wasm-runtime@0.2.10"
+    },
+    "vulnerabilities": [],
+    "vendor": "napi-rs"
+  },
+  {
+    "dependency": {
+      "name": "next/env",
+      "version": "15.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40next/env@15.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "next"
+  },
+  {
+    "dependency": {
+      "name": "next/eslint-plugin-next",
+      "version": "15.2.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40next/eslint-plugin-next@15.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "next"
+  },
+  {
+    "dependency": {
+      "name": "next/swc-darwin-arm64",
+      "version": "15.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40next/swc-darwin-arm64@15.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "next"
+  },
+  {
+    "dependency": {
+      "name": "next/swc-darwin-x64",
+      "version": "15.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40next/swc-darwin-x64@15.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "next"
+  },
+  {
+    "dependency": {
+      "name": "next/swc-linux-arm64-gnu",
+      "version": "15.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40next/swc-linux-arm64-gnu@15.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "next"
+  },
+  {
+    "dependency": {
+      "name": "next/swc-linux-arm64-musl",
+      "version": "15.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40next/swc-linux-arm64-musl@15.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "next"
+  },
+  {
+    "dependency": {
+      "name": "next/swc-linux-x64-gnu",
+      "version": "15.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40next/swc-linux-x64-gnu@15.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "next"
+  },
+  {
+    "dependency": {
+      "name": "next/swc-linux-x64-musl",
+      "version": "15.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40next/swc-linux-x64-musl@15.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "next"
+  },
+  {
+    "dependency": {
+      "name": "next/swc-win32-arm64-msvc",
+      "version": "15.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40next/swc-win32-arm64-msvc@15.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "next"
+  },
+  {
+    "dependency": {
+      "name": "next/swc-win32-x64-msvc",
+      "version": "15.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40next/swc-win32-x64-msvc@15.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "next"
+  },
+  {
+    "dependency": {
+      "name": "nodelib/fs.scandir",
+      "version": "2.1.5",
+      "type": "npm",
+      "purl": "pkg:npm/%40nodelib/fs.scandir@2.1.5"
+    },
+    "vulnerabilities": [],
+    "vendor": "nodelib"
+  },
+  {
+    "dependency": {
+      "name": "nodelib/fs.stat",
+      "version": "2.0.5",
+      "type": "npm",
+      "purl": "pkg:npm/%40nodelib/fs.stat@2.0.5"
+    },
+    "vulnerabilities": [],
+    "vendor": "nodelib"
+  },
+  {
+    "dependency": {
+      "name": "nodelib/fs.walk",
+      "version": "1.2.8",
+      "type": "npm",
+      "purl": "pkg:npm/%40nodelib/fs.walk@1.2.8"
+    },
+    "vulnerabilities": [],
+    "vendor": "nodelib"
+  },
+  {
+    "dependency": {
+      "name": "nolyfill/is-core-module",
+      "version": "1.0.39",
+      "type": "npm",
+      "purl": "pkg:npm/%40nolyfill/is-core-module@1.0.39"
+    },
+    "vulnerabilities": [],
+    "vendor": "nolyfill"
+  },
+  {
+    "dependency": {
+      "name": "playwright/test",
+      "version": "1.52.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40playwright/test@1.52.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "playwright"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/primitive",
+      "version": "1.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/primitive@1.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-arrow",
+      "version": "1.1.6",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-arrow@1.1.6"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-avatar",
+      "version": "1.1.9",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-avatar@1.1.9"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-compose-refs",
+      "version": "1.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-compose-refs@1.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-context",
+      "version": "1.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-context@1.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-dialog",
+      "version": "1.1.13",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-dialog@1.1.13"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-dismissable-layer",
+      "version": "1.1.9",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-dismissable-layer@1.1.9"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-focus-guards",
+      "version": "1.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-focus-guards@1.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-focus-scope",
+      "version": "1.1.6",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-focus-scope@1.1.6"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-id",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-id@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-label",
+      "version": "2.1.6",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-label@2.1.6"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-popper",
+      "version": "1.2.6",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-popper@1.2.6"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-portal",
+      "version": "1.1.8",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-portal@1.1.8"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-presence",
+      "version": "1.1.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-presence@1.1.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-primitive",
+      "version": "2.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-primitive@2.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-separator",
+      "version": "1.1.6",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-separator@1.1.6"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-slot",
+      "version": "1.2.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-slot@1.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-switch",
+      "version": "1.2.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-switch@1.2.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-tooltip",
+      "version": "1.2.6",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-tooltip@1.2.6"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-use-callback-ref",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-use-callback-ref@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-use-controllable-state",
+      "version": "1.2.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-use-controllable-state@1.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-use-effect-event",
+      "version": "0.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-use-effect-event@0.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-use-escape-keydown",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-use-escape-keydown@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-use-is-hydrated",
+      "version": "0.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-use-is-hydrated@0.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-use-layout-effect",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-use-layout-effect@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-use-previous",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-use-previous@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-use-rect",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-use-rect@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-use-size",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-use-size@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/react-visually-hidden",
+      "version": "1.2.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/react-visually-hidden@1.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "radix-ui/rect",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40radix-ui/rect@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "radix-ui"
+  },
+  {
+    "dependency": {
+      "name": "rtsao/scc",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40rtsao/scc@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "rtsao"
+  },
+  {
+    "dependency": {
+      "name": "rushstack/eslint-patch",
+      "version": "1.11.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40rushstack/eslint-patch@1.11.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "rushstack"
+  },
+  {
+    "dependency": {
+      "name": "swc/counter",
+      "version": "0.1.3",
+      "type": "npm",
+      "purl": "pkg:npm/%40swc/counter@0.1.3"
+    },
+    "vulnerabilities": [],
+    "vendor": "swc"
+  },
+  {
+    "dependency": {
+      "name": "swc/helpers",
+      "version": "0.5.15",
+      "type": "npm",
+      "purl": "pkg:npm/%40swc/helpers@0.5.15"
+    },
+    "vulnerabilities": [],
+    "vendor": "swc"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/node",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/node@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/oxide",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/oxide@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/oxide-android-arm64",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/oxide-android-arm64@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/oxide-darwin-arm64",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/oxide-darwin-arm64@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/oxide-darwin-x64",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/oxide-darwin-x64@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/oxide-freebsd-x64",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/oxide-freebsd-x64@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/oxide-linux-arm-gnueabihf",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/oxide-linux-arm-gnueabihf@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/oxide-linux-arm64-gnu",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/oxide-linux-arm64-gnu@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/oxide-linux-arm64-musl",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/oxide-linux-arm64-musl@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/oxide-linux-x64-gnu",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/oxide-linux-x64-gnu@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/oxide-linux-x64-musl",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/oxide-linux-x64-musl@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/oxide-wasm32-wasi",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/oxide-wasm32-wasi@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/oxide-win32-arm64-msvc",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/oxide-win32-arm64-msvc@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/oxide-win32-x64-msvc",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/oxide-win32-x64-msvc@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss/postcss",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40tailwindcss/postcss@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "tailwindcss"
+  },
+  {
+    "dependency": {
+      "name": "tybys/wasm-util",
+      "version": "0.9.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40tybys/wasm-util@0.9.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "tybys"
+  },
+  {
+    "dependency": {
+      "name": "types/d3-array",
+      "version": "3.2.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/d3-array@3.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/d3-color",
+      "version": "3.1.3",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/d3-color@3.1.3"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/d3-ease",
+      "version": "3.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/d3-ease@3.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/d3-interpolate",
+      "version": "3.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/d3-interpolate@3.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/d3-path",
+      "version": "3.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/d3-path@3.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/d3-scale",
+      "version": "4.0.9",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/d3-scale@4.0.9"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/d3-shape",
+      "version": "3.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/d3-shape@3.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/d3-time",
+      "version": "3.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/d3-time@3.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/d3-timer",
+      "version": "3.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/d3-timer@3.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/debug",
+      "version": "4.1.12",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/debug@4.1.12"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/estree",
+      "version": "1.0.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/estree@1.0.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/estree-jsx",
+      "version": "1.0.5",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/estree-jsx@1.0.5"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/hast",
+      "version": "2.3.10",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/hast@2.3.10"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/hast",
+      "version": "3.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/hast@3.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/json-schema",
+      "version": "7.0.15",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/json-schema@7.0.15"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/json5",
+      "version": "0.0.29",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/json5@0.0.29"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/katex",
+      "version": "0.16.7",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/katex@0.16.7"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/lodash",
+      "version": "4.17.16",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/lodash@4.17.16"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/mdast",
+      "version": "4.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/mdast@4.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/ms",
+      "version": "2.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/ms@2.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/node",
+      "version": "18.19.100",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/node@18.19.100"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/node",
+      "version": "22.15.18",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/node@22.15.18"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/node-fetch",
+      "version": "2.6.12",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/node-fetch@2.6.12"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/prismjs",
+      "version": "1.26.5",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/prismjs@1.26.5"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/react",
+      "version": "19.1.4",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/react@19.1.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/react-dom",
+      "version": "19.1.5",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/react-dom@19.1.5"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/react-syntax-highlighter",
+      "version": "15.5.13",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/react-syntax-highlighter@15.5.13"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/retry",
+      "version": "0.12.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/retry@0.12.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/unist",
+      "version": "2.0.11",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/unist@2.0.11"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/unist",
+      "version": "3.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/unist@3.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "types/uuid",
+      "version": "10.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40types/uuid@10.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "types"
+  },
+  {
+    "dependency": {
+      "name": "typescript-eslint/eslint-plugin",
+      "version": "8.32.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40typescript-eslint/eslint-plugin@8.32.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "typescript-eslint"
+  },
+  {
+    "dependency": {
+      "name": "typescript-eslint/parser",
+      "version": "8.32.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40typescript-eslint/parser@8.32.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "typescript-eslint"
+  },
+  {
+    "dependency": {
+      "name": "typescript-eslint/scope-manager",
+      "version": "8.32.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40typescript-eslint/scope-manager@8.32.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "typescript-eslint"
+  },
+  {
+    "dependency": {
+      "name": "typescript-eslint/type-utils",
+      "version": "8.32.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40typescript-eslint/type-utils@8.32.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "typescript-eslint"
+  },
+  {
+    "dependency": {
+      "name": "typescript-eslint/types",
+      "version": "8.32.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40typescript-eslint/types@8.32.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "typescript-eslint"
+  },
+  {
+    "dependency": {
+      "name": "typescript-eslint/typescript-estree",
+      "version": "8.32.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40typescript-eslint/typescript-estree@8.32.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "typescript-eslint"
+  },
+  {
+    "dependency": {
+      "name": "typescript-eslint/utils",
+      "version": "8.32.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40typescript-eslint/utils@8.32.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "typescript-eslint"
+  },
+  {
+    "dependency": {
+      "name": "typescript-eslint/visitor-keys",
+      "version": "8.32.1",
+      "type": "npm",
+      "purl": "pkg:npm/%40typescript-eslint/visitor-keys@8.32.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "typescript-eslint"
+  },
+  {
+    "dependency": {
+      "name": "ungap/structured-clone",
+      "version": "1.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/%40ungap/structured-clone@1.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "ungap"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-darwin-arm64",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-darwin-arm64@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-darwin-x64",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-darwin-x64@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-freebsd-x64",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-freebsd-x64@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-linux-arm-gnueabihf",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-linux-arm-gnueabihf@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-linux-arm-musleabihf",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-linux-arm-musleabihf@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-linux-arm64-gnu",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-linux-arm64-gnu@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-linux-arm64-musl",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-linux-arm64-musl@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-linux-ppc64-gnu",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-linux-ppc64-gnu@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-linux-riscv64-gnu",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-linux-riscv64-gnu@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-linux-riscv64-musl",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-linux-riscv64-musl@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-linux-s390x-gnu",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-linux-s390x-gnu@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-linux-x64-gnu",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-linux-x64-gnu@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-linux-x64-musl",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-linux-x64-musl@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-wasm32-wasi",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-wasm32-wasi@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-win32-arm64-msvc",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-win32-arm64-msvc@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-win32-ia32-msvc",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-win32-ia32-msvc@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "unrs/resolver-binding-win32-x64-msvc",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/%40unrs/resolver-binding-win32-x64-msvc@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "unrs"
+  },
+  {
+    "dependency": {
+      "name": "HikariCP",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.zaxxer/HikariCP"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.zaxxer"
+  },
+  {
+    "dependency": {
+      "name": "a2a-java-reference-server",
+      "version": "0.2.5.Beta2",
+      "type": "java-archive",
+      "purl": "pkg:maven/io.github.a2asdk/a2a-java-reference-server@0.2.5.Beta2"
+    },
+    "vulnerabilities": [],
+    "vendor": "io.github.a2asdk"
+  },
+  {
+    "dependency": {
+      "name": "a2a-java-sdk-client",
+      "version": "0.2.5.Beta2",
+      "type": "java-archive",
+      "purl": "pkg:maven/io.github.a2asdk/a2a-java-sdk-client@0.2.5.Beta2"
+    },
+    "vulnerabilities": [],
+    "vendor": "io.github.a2asdk"
+  },
+  {
+    "dependency": {
+      "name": "a2a-java-sdk-server-common",
+      "version": "0.2.5.Beta2",
+      "type": "java-archive",
+      "purl": "pkg:maven/io.github.a2asdk/a2a-java-sdk-server-common@0.2.5.Beta2"
+    },
+    "vulnerabilities": [],
+    "vendor": "io.github.a2asdk"
+  },
+  {
+    "dependency": {
+      "name": "abort-controller",
+      "version": "3.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/abort-controller@3.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "acorn",
+      "version": "8.14.1",
+      "type": "npm",
+      "purl": "pkg:npm/acorn@8.14.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "acorn-jsx",
+      "version": "5.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/acorn-jsx@5.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "actions/checkout",
+      "version": "v4.2.2",
+      "type": "github-action",
+      "purl": "pkg:github/actions/checkout@v4.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "actions"
+  },
+  {
+    "dependency": {
+      "name": "actions/checkout",
+      "version": "v4.2.2",
+      "type": "github-action",
+      "purl": "pkg:github/actions/checkout@v4.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "actions"
+  },
+  {
+    "dependency": {
+      "name": "actions/checkout",
+      "version": "v4.2.2",
+      "type": "github-action",
+      "purl": "pkg:github/actions/checkout@v4.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "actions"
+  },
+  {
+    "dependency": {
+      "name": "actions/checkout",
+      "version": "v4.2.2",
+      "type": "github-action",
+      "purl": "pkg:github/actions/checkout@v4.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "actions"
+  },
+  {
+    "dependency": {
+      "name": "actions/checkout",
+      "version": "v4.2.2",
+      "type": "github-action",
+      "purl": "pkg:github/actions/checkout@v4.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "actions"
+  },
+  {
+    "dependency": {
+      "name": "actions/checkout",
+      "version": "v4.2.2",
+      "type": "github-action",
+      "purl": "pkg:github/actions/checkout@v4.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "actions"
+  },
+  {
+    "dependency": {
+      "name": "actions/checkout",
+      "version": "v4.2.2",
+      "type": "github-action",
+      "purl": "pkg:github/actions/checkout@v4.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "actions"
+  },
+  {
+    "dependency": {
+      "name": "actions/first-interaction",
+      "version": "v2.0.0",
+      "type": "github-action",
+      "purl": "pkg:github/actions/first-interaction@v2.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "actions"
+  },
+  {
+    "dependency": {
+      "name": "actions/labeler",
+      "version": "v5",
+      "type": "github-action",
+      "purl": "pkg:github/actions/labeler@v5"
+    },
+    "vulnerabilities": [],
+    "vendor": "actions"
+  },
+  {
+    "dependency": {
+      "name": "actions/setup-python",
+      "version": "v4",
+      "type": "github-action",
+      "purl": "pkg:github/actions/setup-python@v4"
+    },
+    "vulnerabilities": [],
+    "vendor": "actions"
+  },
+  {
+    "dependency": {
+      "name": "actions/stale",
+      "version": "v6",
+      "type": "github-action",
+      "purl": "pkg:github/actions/stale@v6"
+    },
+    "vulnerabilities": [],
+    "vendor": "actions"
+  },
+  {
+    "dependency": {
+      "name": "actions/stale",
+      "version": "v9",
+      "type": "github-action",
+      "purl": "pkg:github/actions/stale@v9"
+    },
+    "vulnerabilities": [],
+    "vendor": "actions"
+  },
+  {
+    "dependency": {
+      "name": "agentkeepalive",
+      "version": "4.6.0",
+      "type": "npm",
+      "purl": "pkg:npm/agentkeepalive@4.6.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "ajv",
+      "version": "6.12.6",
+      "type": "npm",
+      "purl": "pkg:npm/ajv@6.12.6"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "amannn/action-semantic-pull-request",
+      "version": "v5",
+      "type": "github-action",
+      "purl": "pkg:github/amannn/action-semantic-pull-request@v5"
+    },
+    "vulnerabilities": [],
+    "vendor": "amannn"
+  },
+  {
+    "dependency": {
+      "name": "annotations",
+      "version": "13.0",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.jetbrains/annotations@13.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.jetbrains"
+  },
+  {
+    "dependency": {
+      "name": "ansi-styles",
+      "version": "4.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/ansi-styles@4.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "ansi-styles",
+      "version": "5.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/ansi-styles@5.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "argparse",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/argparse@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "aria-hidden",
+      "version": "1.2.4",
+      "type": "npm",
+      "purl": "pkg:npm/aria-hidden@1.2.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "aria-query",
+      "version": "5.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/aria-query@5.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "array-buffer-byte-length",
+      "version": "1.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/array-buffer-byte-length@1.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "array-includes",
+      "version": "3.1.8",
+      "type": "npm",
+      "purl": "pkg:npm/array-includes@3.1.8"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "array.prototype.findlast",
+      "version": "1.2.5",
+      "type": "npm",
+      "purl": "pkg:npm/array.prototype.findlast@1.2.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "array.prototype.findlastindex",
+      "version": "1.2.6",
+      "type": "npm",
+      "purl": "pkg:npm/array.prototype.findlastindex@1.2.6"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "array.prototype.flat",
+      "version": "1.3.3",
+      "type": "npm",
+      "purl": "pkg:npm/array.prototype.flat@1.3.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "array.prototype.flatmap",
+      "version": "1.3.3",
+      "type": "npm",
+      "purl": "pkg:npm/array.prototype.flatmap@1.3.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "array.prototype.tosorted",
+      "version": "1.1.4",
+      "type": "npm",
+      "purl": "pkg:npm/array.prototype.tosorted@1.1.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "arraybuffer.prototype.slice",
+      "version": "1.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/arraybuffer.prototype.slice@1.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "asm",
+      "version": "9.2",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.ow2.asm/asm@9.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.ow2.asm"
+  },
+  {
+    "dependency": {
+      "name": "asm-commons",
+      "version": "9.2",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.ow2.asm/asm-commons@9.2"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.ow2.asm"
+  },
+  {
+    "dependency": {
+      "name": "ast-types-flow",
+      "version": "0.0.8",
+      "type": "npm",
+      "purl": "pkg:npm/ast-types-flow@0.0.8"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "async-function",
+      "version": "1.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/async-function@1.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "asynckit",
+      "version": "0.4.0",
+      "type": "npm",
+      "purl": "pkg:npm/asynckit@0.4.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "autoprefixer",
+      "version": "10.4.21",
+      "type": "npm",
+      "purl": "pkg:npm/autoprefixer@10.4.21"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "available-typed-arrays",
+      "version": "1.0.7",
+      "type": "npm",
+      "purl": "pkg:npm/available-typed-arrays@1.0.7"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "axe-core",
+      "version": "4.10.3",
+      "type": "npm",
+      "purl": "pkg:npm/axe-core@4.10.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "axobject-query",
+      "version": "4.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/axobject-query@4.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "bail",
+      "version": "2.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/bail@2.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "balanced-match",
+      "version": "1.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/balanced-match@1.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "base64-js",
+      "version": "1.5.1",
+      "type": "npm",
+      "purl": "pkg:npm/base64-js@1.5.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "brace-expansion",
+      "version": "1.1.11",
+      "type": "npm",
+      "purl": "pkg:npm/brace-expansion@1.1.11"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "brace-expansion",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/brace-expansion@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "braces",
+      "version": "3.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/braces@3.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "browserslist",
+      "version": "4.24.5",
+      "type": "npm",
+      "purl": "pkg:npm/browserslist@4.24.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "busboy",
+      "version": "1.6.0",
+      "type": "npm",
+      "purl": "pkg:npm/busboy@1.6.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "caffeine",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.github.ben-manes.caffeine/caffeine"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.github.ben-manes.caffeine"
+  },
+  {
+    "dependency": {
+      "name": "call-bind",
+      "version": "1.0.8",
+      "type": "npm",
+      "purl": "pkg:npm/call-bind@1.0.8"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "call-bind-apply-helpers",
+      "version": "1.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/call-bind-apply-helpers@1.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "call-bound",
+      "version": "1.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/call-bound@1.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "callsites",
+      "version": "3.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/callsites@3.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "camelcase",
+      "version": "6.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/camelcase@6.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "caniuse-lite",
+      "version": "1.0.30001718",
+      "type": "npm",
+      "purl": "pkg:npm/caniuse-lite@1.0.30001718"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "ccount",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/ccount@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "cglib",
+      "version": "3.3.0",
+      "type": "java-archive",
+      "purl": "pkg:maven/cglib/cglib@3.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "cglib"
+  },
+  {
+    "dependency": {
+      "name": "chalk",
+      "version": "4.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/chalk@4.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "character-entities",
+      "version": "1.2.4",
+      "type": "npm",
+      "purl": "pkg:npm/character-entities@1.2.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "character-entities",
+      "version": "2.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/character-entities@2.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "character-entities-html4",
+      "version": "2.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/character-entities-html4@2.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "character-entities-legacy",
+      "version": "1.1.4",
+      "type": "npm",
+      "purl": "pkg:npm/character-entities-legacy@1.1.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "character-entities-legacy",
+      "version": "3.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/character-entities-legacy@3.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "character-reference-invalid",
+      "version": "1.1.4",
+      "type": "npm",
+      "purl": "pkg:npm/character-reference-invalid@1.1.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "character-reference-invalid",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/character-reference-invalid@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "chatbot",
+      "version": "0.0.1-SNAPSHOT",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/chatbot@0.0.1-SNAPSHOT"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "chownr",
+      "version": "3.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/chownr@3.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "class-variance-authority",
+      "version": "0.7.1",
+      "type": "npm",
+      "purl": "pkg:npm/class-variance-authority@0.7.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "client-only",
+      "version": "0.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/client-only@0.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "clsx",
+      "version": "2.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/clsx@2.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "color",
+      "version": "4.2.3",
+      "type": "npm",
+      "purl": "pkg:npm/color@4.2.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "color-convert",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/color-convert@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "color-name",
+      "version": "1.1.4",
+      "type": "npm",
+      "purl": "pkg:npm/color-name@1.1.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "color-string",
+      "version": "1.9.1",
+      "type": "npm",
+      "purl": "pkg:npm/color-string@1.9.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "combined-stream",
+      "version": "1.0.8",
+      "type": "npm",
+      "purl": "pkg:npm/combined-stream@1.0.8"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "comma-separated-tokens",
+      "version": "1.0.8",
+      "type": "npm",
+      "purl": "pkg:npm/comma-separated-tokens@1.0.8"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "comma-separated-tokens",
+      "version": "2.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/comma-separated-tokens@2.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "commander",
+      "version": "8.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/commander@8.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "commons-codec",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/commons-codec/commons-codec"
+    },
+    "vulnerabilities": [],
+    "vendor": "commons-codec"
+  },
+  {
+    "dependency": {
+      "name": "commons-collections4",
+      "version": "4.4",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.apache.commons/commons-collections4@4.4"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.apache.commons"
+  },
+  {
+    "dependency": {
+      "name": "commons-exec",
+      "version": "1.3",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.apache.commons/commons-exec@1.3"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.apache.commons"
+  },
+  {
+    "dependency": {
+      "name": "commons-lang3",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.apache.commons/commons-lang3"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.apache.commons"
+  },
+  {
+    "dependency": {
+      "name": "concat-map",
+      "version": "0.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/concat-map@0.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "console-table-printer",
+      "version": "2.12.1",
+      "type": "npm",
+      "purl": "pkg:npm/console-table-printer@2.12.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "cross-spawn",
+      "version": "7.0.6",
+      "type": "npm",
+      "purl": "pkg:npm/cross-spawn@7.0.6"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "cssesc",
+      "version": "3.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/cssesc@3.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "csstype",
+      "version": "3.1.3",
+      "type": "npm",
+      "purl": "pkg:npm/csstype@3.1.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "d3-array",
+      "version": "3.2.4",
+      "type": "npm",
+      "purl": "pkg:npm/d3-array@3.2.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "d3-color",
+      "version": "3.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/d3-color@3.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "d3-ease",
+      "version": "3.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/d3-ease@3.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "d3-format",
+      "version": "3.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/d3-format@3.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "d3-interpolate",
+      "version": "3.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/d3-interpolate@3.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "d3-path",
+      "version": "3.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/d3-path@3.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "d3-scale",
+      "version": "4.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/d3-scale@4.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "d3-shape",
+      "version": "3.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/d3-shape@3.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "d3-time",
+      "version": "3.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/d3-time@3.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "d3-time-format",
+      "version": "4.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/d3-time-format@4.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "d3-timer",
+      "version": "3.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/d3-timer@3.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "damerau-levenshtein",
+      "version": "1.0.8",
+      "type": "npm",
+      "purl": "pkg:npm/damerau-levenshtein@1.0.8"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "data-view-buffer",
+      "version": "1.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/data-view-buffer@1.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "data-view-byte-length",
+      "version": "1.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/data-view-byte-length@1.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "data-view-byte-offset",
+      "version": "1.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/data-view-byte-offset@1.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "date-fns",
+      "version": "4.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/date-fns@4.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "debug",
+      "version": "3.2.7",
+      "type": "npm",
+      "purl": "pkg:npm/debug@3.2.7"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "debug",
+      "version": "4.4.1",
+      "type": "npm",
+      "purl": "pkg:npm/debug@4.4.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "decamelize",
+      "version": "1.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/decamelize@1.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "decimal.js-light",
+      "version": "2.5.1",
+      "type": "npm",
+      "purl": "pkg:npm/decimal.js-light@2.5.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "decode-named-character-reference",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/decode-named-character-reference@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "deep-is",
+      "version": "0.1.4",
+      "type": "npm",
+      "purl": "pkg:npm/deep-is@0.1.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "deepresearch",
+      "version": "0.0.1-SNAPSHOT",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/deepresearch@0.0.1-SNAPSHOT"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "define-data-property",
+      "version": "1.1.4",
+      "type": "npm",
+      "purl": "pkg:npm/define-data-property@1.1.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "define-properties",
+      "version": "1.2.1",
+      "type": "npm",
+      "purl": "pkg:npm/define-properties@1.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "delayed-stream",
+      "version": "1.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/delayed-stream@1.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "dequal",
+      "version": "2.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/dequal@2.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "detect-libc",
+      "version": "2.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/detect-libc@2.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "detect-node-es",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/detect-node-es@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "devlop",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/devlop@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "doctrine",
+      "version": "2.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/doctrine@2.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "documentation",
+      "version": "0.0.1-SNAPSHOT",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/documentation@0.0.1-SNAPSHOT"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "dom-helpers",
+      "version": "5.2.1",
+      "type": "npm",
+      "purl": "pkg:npm/dom-helpers@5.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "dotenv",
+      "version": "16.5.0",
+      "type": "npm",
+      "purl": "pkg:npm/dotenv@16.5.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "dunder-proto",
+      "version": "1.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/dunder-proto@1.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "electron-to-chromium",
+      "version": "1.5.155",
+      "type": "npm",
+      "purl": "pkg:npm/electron-to-chromium@1.5.155"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "emoji-regex",
+      "version": "9.2.2",
+      "type": "npm",
+      "purl": "pkg:npm/emoji-regex@9.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "enhanced-resolve",
+      "version": "5.18.1",
+      "type": "npm",
+      "purl": "pkg:npm/enhanced-resolve@5.18.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "entities",
+      "version": "6.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/entities@6.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "es-abstract",
+      "version": "1.23.9",
+      "type": "npm",
+      "purl": "pkg:npm/es-abstract@1.23.9"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "es-define-property",
+      "version": "1.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/es-define-property@1.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "es-errors",
+      "version": "1.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/es-errors@1.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "es-iterator-helpers",
+      "version": "1.2.1",
+      "type": "npm",
+      "purl": "pkg:npm/es-iterator-helpers@1.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "es-object-atoms",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/es-object-atoms@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "es-set-tostringtag",
+      "version": "2.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/es-set-tostringtag@2.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "es-shim-unscopables",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/es-shim-unscopables@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "es-to-primitive",
+      "version": "1.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/es-to-primitive@1.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "esbuild",
+      "version": "0.25.4",
+      "type": "npm",
+      "purl": "pkg:npm/esbuild@0.25.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "esbuild-plugin-tailwindcss",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/esbuild-plugin-tailwindcss@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "escalade",
+      "version": "3.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/escalade@3.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "escape-string-regexp",
+      "version": "4.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/escape-string-regexp@4.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "escape-string-regexp",
+      "version": "5.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/escape-string-regexp@5.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eslint",
+      "version": "9.27.0",
+      "type": "npm",
+      "purl": "pkg:npm/eslint@9.27.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eslint-config-next",
+      "version": "15.2.2",
+      "type": "npm",
+      "purl": "pkg:npm/eslint-config-next@15.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eslint-import-resolver-node",
+      "version": "0.3.9",
+      "type": "npm",
+      "purl": "pkg:npm/eslint-import-resolver-node@0.3.9"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eslint-import-resolver-typescript",
+      "version": "3.10.1",
+      "type": "npm",
+      "purl": "pkg:npm/eslint-import-resolver-typescript@3.10.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eslint-module-utils",
+      "version": "2.12.0",
+      "type": "npm",
+      "purl": "pkg:npm/eslint-module-utils@2.12.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eslint-plugin-import",
+      "version": "2.31.0",
+      "type": "npm",
+      "purl": "pkg:npm/eslint-plugin-import@2.31.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eslint-plugin-jsx-a11y",
+      "version": "6.10.2",
+      "type": "npm",
+      "purl": "pkg:npm/eslint-plugin-jsx-a11y@6.10.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eslint-plugin-react",
+      "version": "7.37.5",
+      "type": "npm",
+      "purl": "pkg:npm/eslint-plugin-react@7.37.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eslint-plugin-react-hooks",
+      "version": "5.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/eslint-plugin-react-hooks@5.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eslint-plugin-react-refresh",
+      "version": "0.4.20",
+      "type": "npm",
+      "purl": "pkg:npm/eslint-plugin-react-refresh@0.4.20"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eslint-scope",
+      "version": "8.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/eslint-scope@8.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eslint-visitor-keys",
+      "version": "3.4.3",
+      "type": "npm",
+      "purl": "pkg:npm/eslint-visitor-keys@3.4.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eslint-visitor-keys",
+      "version": "4.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/eslint-visitor-keys@4.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "espree",
+      "version": "10.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/espree@10.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "esquery",
+      "version": "1.6.0",
+      "type": "npm",
+      "purl": "pkg:npm/esquery@1.6.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "esrecurse",
+      "version": "4.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/esrecurse@4.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "estraverse",
+      "version": "5.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/estraverse@5.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "estree-util-is-identifier-name",
+      "version": "3.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/estree-util-is-identifier-name@3.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "esutils",
+      "version": "2.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/esutils@2.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "event-target-shim",
+      "version": "5.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/event-target-shim@5.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "eventemitter3",
+      "version": "4.0.7",
+      "type": "npm",
+      "purl": "pkg:npm/eventemitter3@4.0.7"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "extend",
+      "version": "3.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/extend@3.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "fast-deep-equal",
+      "version": "3.1.3",
+      "type": "npm",
+      "purl": "pkg:npm/fast-deep-equal@3.1.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "fast-equals",
+      "version": "5.2.2",
+      "type": "npm",
+      "purl": "pkg:npm/fast-equals@5.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "fast-glob",
+      "version": "3.3.1",
+      "type": "npm",
+      "purl": "pkg:npm/fast-glob@3.3.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "fast-glob",
+      "version": "3.3.3",
+      "type": "npm",
+      "purl": "pkg:npm/fast-glob@3.3.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "fast-json-stable-stringify",
+      "version": "2.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/fast-json-stable-stringify@2.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "fast-levenshtein",
+      "version": "2.0.6",
+      "type": "npm",
+      "purl": "pkg:npm/fast-levenshtein@2.0.6"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "fastjson",
+      "version": "1.2.83",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba/fastjson@1.2.83"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba"
+  },
+  {
+    "dependency": {
+      "name": "fastq",
+      "version": "1.19.1",
+      "type": "npm",
+      "purl": "pkg:npm/fastq@1.19.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "fault",
+      "version": "1.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/fault@1.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "fdir",
+      "version": "6.4.4",
+      "type": "npm",
+      "purl": "pkg:npm/fdir@6.4.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "file-entry-cache",
+      "version": "8.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/file-entry-cache@8.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "fill-range",
+      "version": "7.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/fill-range@7.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "find-up",
+      "version": "5.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/find-up@5.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "flat-cache",
+      "version": "4.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/flat-cache@4.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "flatted",
+      "version": "3.3.3",
+      "type": "npm",
+      "purl": "pkg:npm/flatted@3.3.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "for-each",
+      "version": "0.3.5",
+      "type": "npm",
+      "purl": "pkg:npm/for-each@0.3.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "form-data",
+      "version": "4.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/form-data@4.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "form-data-encoder",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/form-data-encoder@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "format",
+      "version": "0.2.2",
+      "type": "npm",
+      "purl": "pkg:npm/format@0.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "formdata-node",
+      "version": "4.4.1",
+      "type": "npm",
+      "purl": "pkg:npm/formdata-node@4.4.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "fraction.js",
+      "version": "4.3.7",
+      "type": "npm",
+      "purl": "pkg:npm/fraction.js@4.3.7"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "framer-motion",
+      "version": "12.12.1",
+      "type": "npm",
+      "purl": "pkg:npm/framer-motion@12.12.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "fsevents",
+      "version": "2.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/fsevents@2.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "function-bind",
+      "version": "1.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/function-bind@1.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "function.prototype.name",
+      "version": "1.1.8",
+      "type": "npm",
+      "purl": "pkg:npm/function.prototype.name@1.1.8"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "functions-have-names",
+      "version": "1.2.3",
+      "type": "npm",
+      "purl": "pkg:npm/functions-have-names@1.2.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "generic-names",
+      "version": "4.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/generic-names@4.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "get-intrinsic",
+      "version": "1.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/get-intrinsic@1.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "get-nonce",
+      "version": "1.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/get-nonce@1.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "get-proto",
+      "version": "1.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/get-proto@1.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "get-symbol-description",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/get-symbol-description@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "get-tsconfig",
+      "version": "4.10.0",
+      "type": "npm",
+      "purl": "pkg:npm/get-tsconfig@4.10.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "glob-parent",
+      "version": "5.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/glob-parent@5.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "glob-parent",
+      "version": "6.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/glob-parent@6.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "globals",
+      "version": "14.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/globals@14.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "globals",
+      "version": "15.15.0",
+      "type": "npm",
+      "purl": "pkg:npm/globals@15.15.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "globalthis",
+      "version": "1.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/globalthis@1.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "gopd",
+      "version": "1.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/gopd@1.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "graceful-fs",
+      "version": "4.2.11",
+      "type": "npm",
+      "purl": "pkg:npm/graceful-fs@4.2.11"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "graphemer",
+      "version": "1.4.0",
+      "type": "npm",
+      "purl": "pkg:npm/graphemer@1.4.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "h2",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.h2database/h2"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.h2database"
+  },
+  {
+    "dependency": {
+      "name": "has-bigints",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/has-bigints@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "has-flag",
+      "version": "4.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/has-flag@4.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "has-property-descriptors",
+      "version": "1.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/has-property-descriptors@1.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "has-proto",
+      "version": "1.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/has-proto@1.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "has-symbols",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/has-symbols@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "has-tostringtag",
+      "version": "1.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/has-tostringtag@1.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "hasown",
+      "version": "2.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/hasown@2.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "hast-util-from-dom",
+      "version": "5.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/hast-util-from-dom@5.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "hast-util-from-html",
+      "version": "2.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/hast-util-from-html@2.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "hast-util-from-html-isomorphic",
+      "version": "2.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/hast-util-from-html-isomorphic@2.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "hast-util-from-parse5",
+      "version": "8.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/hast-util-from-parse5@8.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "hast-util-is-element",
+      "version": "3.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/hast-util-is-element@3.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "hast-util-parse-selector",
+      "version": "2.2.5",
+      "type": "npm",
+      "purl": "pkg:npm/hast-util-parse-selector@2.2.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "hast-util-parse-selector",
+      "version": "4.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/hast-util-parse-selector@4.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "hast-util-to-jsx-runtime",
+      "version": "2.3.6",
+      "type": "npm",
+      "purl": "pkg:npm/hast-util-to-jsx-runtime@2.3.6"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "hast-util-to-text",
+      "version": "4.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/hast-util-to-text@4.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "hast-util-whitespace",
+      "version": "3.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/hast-util-whitespace@3.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "hastscript",
+      "version": "6.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/hastscript@6.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "hastscript",
+      "version": "9.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/hastscript@9.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "highlight.js",
+      "version": "10.7.3",
+      "type": "npm",
+      "purl": "pkg:npm/highlight.js@10.7.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "highlightjs-vue",
+      "version": "1.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/highlightjs-vue@1.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "html-url-attributes",
+      "version": "3.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/html-url-attributes@3.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "httpclient",
+      "version": "4.5.14",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.apache.httpcomponents/httpclient@4.5.14"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.apache.httpcomponents"
+  },
+  {
+    "dependency": {
+      "name": "humanize-ms",
+      "version": "1.2.1",
+      "type": "npm",
+      "purl": "pkg:npm/humanize-ms@1.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "icss-utils",
+      "version": "5.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/icss-utils@5.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "ignore",
+      "version": "5.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/ignore@5.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "ignore",
+      "version": "7.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/ignore@7.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "import-fresh",
+      "version": "3.3.1",
+      "type": "npm",
+      "purl": "pkg:npm/import-fresh@3.3.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "imurmurhash",
+      "version": "0.1.4",
+      "type": "npm",
+      "purl": "pkg:npm/imurmurhash@0.1.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "inline-style-parser",
+      "version": "0.2.4",
+      "type": "npm",
+      "purl": "pkg:npm/inline-style-parser@0.2.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "internal-slot",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/internal-slot@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "internmap",
+      "version": "2.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/internmap@2.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-alphabetical",
+      "version": "1.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/is-alphabetical@1.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-alphabetical",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/is-alphabetical@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-alphanumerical",
+      "version": "1.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/is-alphanumerical@1.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-alphanumerical",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/is-alphanumerical@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-array-buffer",
+      "version": "3.0.5",
+      "type": "npm",
+      "purl": "pkg:npm/is-array-buffer@3.0.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-arrayish",
+      "version": "0.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/is-arrayish@0.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-async-function",
+      "version": "2.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/is-async-function@2.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-bigint",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/is-bigint@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-boolean-object",
+      "version": "1.2.2",
+      "type": "npm",
+      "purl": "pkg:npm/is-boolean-object@1.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-bun-module",
+      "version": "2.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/is-bun-module@2.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-callable",
+      "version": "1.2.7",
+      "type": "npm",
+      "purl": "pkg:npm/is-callable@1.2.7"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-core-module",
+      "version": "2.16.1",
+      "type": "npm",
+      "purl": "pkg:npm/is-core-module@2.16.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-data-view",
+      "version": "1.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/is-data-view@1.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-date-object",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/is-date-object@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-decimal",
+      "version": "1.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/is-decimal@1.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-decimal",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/is-decimal@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-extglob",
+      "version": "2.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/is-extglob@2.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-finalizationregistry",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/is-finalizationregistry@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-generator-function",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/is-generator-function@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-glob",
+      "version": "4.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/is-glob@4.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-hexadecimal",
+      "version": "1.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/is-hexadecimal@1.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-hexadecimal",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/is-hexadecimal@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-map",
+      "version": "2.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/is-map@2.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-number",
+      "version": "7.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/is-number@7.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-number-object",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/is-number-object@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-plain-obj",
+      "version": "4.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/is-plain-obj@4.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-regex",
+      "version": "1.2.1",
+      "type": "npm",
+      "purl": "pkg:npm/is-regex@1.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-set",
+      "version": "2.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/is-set@2.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-shared-array-buffer",
+      "version": "1.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/is-shared-array-buffer@1.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-string",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/is-string@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-symbol",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/is-symbol@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-typed-array",
+      "version": "1.1.15",
+      "type": "npm",
+      "purl": "pkg:npm/is-typed-array@1.1.15"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-weakmap",
+      "version": "2.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/is-weakmap@2.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-weakref",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/is-weakref@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "is-weakset",
+      "version": "2.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/is-weakset@2.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "isarray",
+      "version": "2.0.5",
+      "type": "npm",
+      "purl": "pkg:npm/isarray@2.0.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "isexe",
+      "version": "2.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/isexe@2.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "iterator.prototype",
+      "version": "1.1.5",
+      "type": "npm",
+      "purl": "pkg:npm/iterator.prototype@1.1.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "jackson-annotations",
+      "version": "2.18.3",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.18.3"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.fasterxml.jackson.core"
+  },
+  {
+    "dependency": {
+      "name": "jackson-annotations",
+      "version": "2.18.3",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.18.3"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.fasterxml.jackson.core"
+  },
+  {
+    "dependency": {
+      "name": "jackson-core",
+      "version": "2.18.3",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.18.3"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.fasterxml.jackson.core"
+  },
+  {
+    "dependency": {
+      "name": "jackson-core",
+      "version": "2.18.3",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.18.3"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.fasterxml.jackson.core"
+  },
+  {
+    "dependency": {
+      "name": "jackson-databind",
+      "version": "2.18.3",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.18.3"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.fasterxml.jackson.core"
+  },
+  {
+    "dependency": {
+      "name": "jackson-databind",
+      "version": "2.18.3",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.18.3"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.fasterxml.jackson.core"
+  },
+  {
+    "dependency": {
+      "name": "jackson-databind",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.fasterxml.jackson.core/jackson-databind"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.fasterxml.jackson.core"
+  },
+  {
+    "dependency": {
+      "name": "jackson-datatype-jdk8",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.fasterxml.jackson.datatype"
+  },
+  {
+    "dependency": {
+      "name": "jackson-datatype-jsr310",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.fasterxml.jackson.datatype"
+  },
+  {
+    "dependency": {
+      "name": "jakarta.servlet-api",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/jakarta.servlet/jakarta.servlet-api"
+    },
+    "vulnerabilities": [],
+    "vendor": "jakarta.servlet"
+  },
+  {
+    "dependency": {
+      "name": "jiti",
+      "version": "2.4.2",
+      "type": "npm",
+      "purl": "pkg:npm/jiti@2.4.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "js-tiktoken",
+      "version": "1.0.20",
+      "type": "npm",
+      "purl": "pkg:npm/js-tiktoken@1.0.20"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "js-tokens",
+      "version": "4.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/js-tokens@4.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "js-yaml",
+      "version": "4.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/js-yaml@4.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "json-buffer",
+      "version": "3.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/json-buffer@3.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "json-schema-traverse",
+      "version": "0.4.1",
+      "type": "npm",
+      "purl": "pkg:npm/json-schema-traverse@0.4.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "json-stable-stringify-without-jsonify",
+      "version": "1.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/json-stable-stringify-without-jsonify@1.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "json5",
+      "version": "1.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/json5@1.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "jsx-ast-utils",
+      "version": "3.3.5",
+      "type": "npm",
+      "purl": "pkg:npm/jsx-ast-utils@3.3.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "junit",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/junit/junit"
+    },
+    "vulnerabilities": [],
+    "vendor": "junit"
+  },
+  {
+    "dependency": {
+      "name": "junit-jupiter",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.junit.jupiter/junit-jupiter"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.junit.jupiter"
+  },
+  {
+    "dependency": {
+      "name": "junit-jupiter",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.testcontainers/junit-jupiter"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.testcontainers"
+  },
+  {
+    "dependency": {
+      "name": "junit-jupiter-api",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.junit.jupiter/junit-jupiter-api"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.junit.jupiter"
+  },
+  {
+    "dependency": {
+      "name": "katex",
+      "version": "0.16.22",
+      "type": "npm",
+      "purl": "pkg:npm/katex@0.16.22"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "keyv",
+      "version": "4.5.4",
+      "type": "npm",
+      "purl": "pkg:npm/keyv@4.5.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "langgraph-nextjs-api-passthrough",
+      "version": "0.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/langgraph-nextjs-api-passthrough@0.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "langsmith",
+      "version": "0.3.29",
+      "type": "npm",
+      "purl": "pkg:npm/langsmith@0.3.29"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "language-subtag-registry",
+      "version": "0.3.23",
+      "type": "npm",
+      "purl": "pkg:npm/language-subtag-registry@0.3.23"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "language-tags",
+      "version": "1.0.9",
+      "type": "npm",
+      "purl": "pkg:npm/language-tags@1.0.9"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "levn",
+      "version": "0.4.1",
+      "type": "npm",
+      "purl": "pkg:npm/levn@0.4.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lightningcss",
+      "version": "1.30.1",
+      "type": "npm",
+      "purl": "pkg:npm/lightningcss@1.30.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lightningcss-darwin-arm64",
+      "version": "1.30.1",
+      "type": "npm",
+      "purl": "pkg:npm/lightningcss-darwin-arm64@1.30.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lightningcss-darwin-x64",
+      "version": "1.30.1",
+      "type": "npm",
+      "purl": "pkg:npm/lightningcss-darwin-x64@1.30.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lightningcss-freebsd-x64",
+      "version": "1.30.1",
+      "type": "npm",
+      "purl": "pkg:npm/lightningcss-freebsd-x64@1.30.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lightningcss-linux-arm-gnueabihf",
+      "version": "1.30.1",
+      "type": "npm",
+      "purl": "pkg:npm/lightningcss-linux-arm-gnueabihf@1.30.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lightningcss-linux-arm64-gnu",
+      "version": "1.30.1",
+      "type": "npm",
+      "purl": "pkg:npm/lightningcss-linux-arm64-gnu@1.30.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lightningcss-linux-arm64-musl",
+      "version": "1.30.1",
+      "type": "npm",
+      "purl": "pkg:npm/lightningcss-linux-arm64-musl@1.30.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lightningcss-linux-x64-gnu",
+      "version": "1.30.1",
+      "type": "npm",
+      "purl": "pkg:npm/lightningcss-linux-x64-gnu@1.30.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lightningcss-linux-x64-musl",
+      "version": "1.30.1",
+      "type": "npm",
+      "purl": "pkg:npm/lightningcss-linux-x64-musl@1.30.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lightningcss-win32-arm64-msvc",
+      "version": "1.30.1",
+      "type": "npm",
+      "purl": "pkg:npm/lightningcss-win32-arm64-msvc@1.30.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lightningcss-win32-x64-msvc",
+      "version": "1.30.1",
+      "type": "npm",
+      "purl": "pkg:npm/lightningcss-win32-x64-msvc@1.30.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "loader-utils",
+      "version": "3.3.1",
+      "type": "npm",
+      "purl": "pkg:npm/loader-utils@3.3.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "locate-path",
+      "version": "6.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/locate-path@6.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lodash",
+      "version": "4.17.21",
+      "type": "npm",
+      "purl": "pkg:npm/lodash@4.17.21"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lodash.camelcase",
+      "version": "4.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/lodash.camelcase@4.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lodash.merge",
+      "version": "4.6.2",
+      "type": "npm",
+      "purl": "pkg:npm/lodash.merge@4.6.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "longest-streak",
+      "version": "3.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/longest-streak@3.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "loose-envify",
+      "version": "1.4.0",
+      "type": "npm",
+      "purl": "pkg:npm/loose-envify@1.4.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lowlight",
+      "version": "1.20.0",
+      "type": "npm",
+      "purl": "pkg:npm/lowlight@1.20.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "lucide-react",
+      "version": "0.476.0",
+      "type": "npm",
+      "purl": "pkg:npm/lucide-react@0.476.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "magic-string",
+      "version": "0.30.17",
+      "type": "npm",
+      "purl": "pkg:npm/magic-string@0.30.17"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "markdown-table",
+      "version": "3.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/markdown-table@3.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "math-intrinsics",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/math-intrinsics@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "maven-wrapper",
+      "version": "3.2.0",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.apache.maven.wrapper/maven-wrapper@3.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.apache.maven.wrapper"
+  },
+  {
+    "dependency": {
+      "name": "mcp",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/io.modelcontextprotocol.sdk/mcp"
+    },
+    "vulnerabilities": [],
+    "vendor": "io.modelcontextprotocol.sdk"
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-find-and-replace",
+      "version": "3.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-find-and-replace@3.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-from-markdown",
+      "version": "2.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-from-markdown@2.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-gfm",
+      "version": "3.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-gfm@3.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-gfm-autolink-literal",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-gfm-autolink-literal@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-gfm-footnote",
+      "version": "2.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-gfm-footnote@2.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-gfm-strikethrough",
+      "version": "2.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-gfm-strikethrough@2.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-gfm-table",
+      "version": "2.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-gfm-table@2.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-gfm-task-list-item",
+      "version": "2.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-gfm-task-list-item@2.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-math",
+      "version": "3.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-math@3.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-mdx-expression",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-mdx-expression@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-mdx-jsx",
+      "version": "3.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-mdx-jsx@3.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-mdxjs-esm",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-mdxjs-esm@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-phrasing",
+      "version": "4.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-phrasing@4.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-to-hast",
+      "version": "13.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-to-hast@13.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-to-markdown",
+      "version": "2.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-to-markdown@2.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mdast-util-to-string",
+      "version": "4.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/mdast-util-to-string@4.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "merge2",
+      "version": "1.4.1",
+      "type": "npm",
+      "purl": "pkg:npm/merge2@1.4.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark",
+      "version": "4.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/micromark@4.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-core-commonmark",
+      "version": "2.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-core-commonmark@2.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-extension-gfm",
+      "version": "3.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-extension-gfm@3.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-extension-gfm-autolink-literal",
+      "version": "2.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-extension-gfm-autolink-literal@2.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-extension-gfm-footnote",
+      "version": "2.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-extension-gfm-footnote@2.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-extension-gfm-strikethrough",
+      "version": "2.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-extension-gfm-strikethrough@2.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-extension-gfm-table",
+      "version": "2.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-extension-gfm-table@2.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-extension-gfm-tagfilter",
+      "version": "2.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-extension-gfm-tagfilter@2.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-extension-gfm-task-list-item",
+      "version": "2.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-extension-gfm-task-list-item@2.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-extension-math",
+      "version": "3.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-extension-math@3.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-factory-destination",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-factory-destination@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-factory-label",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-factory-label@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-factory-space",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-factory-space@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-factory-title",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-factory-title@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-factory-whitespace",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-factory-whitespace@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-character",
+      "version": "2.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-character@2.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-chunked",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-chunked@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-classify-character",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-classify-character@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-combine-extensions",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-combine-extensions@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-decode-numeric-character-reference",
+      "version": "2.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-decode-numeric-character-reference@2.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-decode-string",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-decode-string@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-encode",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-encode@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-html-tag-name",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-html-tag-name@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-normalize-identifier",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-normalize-identifier@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-resolve-all",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-resolve-all@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-sanitize-uri",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-sanitize-uri@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-subtokenize",
+      "version": "2.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-subtokenize@2.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-symbol",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-symbol@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromark-util-types",
+      "version": "2.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/micromark-util-types@2.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micromatch",
+      "version": "4.0.8",
+      "type": "npm",
+      "purl": "pkg:npm/micromatch@4.0.8"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "micrometer-core",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/io.micrometer/micrometer-core"
+    },
+    "vulnerabilities": [],
+    "vendor": "io.micrometer"
+  },
+  {
+    "dependency": {
+      "name": "micrometer-observation",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/io.micrometer/micrometer-observation"
+    },
+    "vulnerabilities": [],
+    "vendor": "io.micrometer"
+  },
+  {
+    "dependency": {
+      "name": "mime-db",
+      "version": "1.52.0",
+      "type": "npm",
+      "purl": "pkg:npm/mime-db@1.52.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mime-types",
+      "version": "2.1.35",
+      "type": "npm",
+      "purl": "pkg:npm/mime-types@2.1.35"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "minimatch",
+      "version": "3.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/minimatch@3.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "minimatch",
+      "version": "9.0.5",
+      "type": "npm",
+      "purl": "pkg:npm/minimatch@9.0.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "minimist",
+      "version": "1.2.8",
+      "type": "npm",
+      "purl": "pkg:npm/minimist@1.2.8"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "minipass",
+      "version": "7.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/minipass@7.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "minizlib",
+      "version": "3.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/minizlib@3.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mitt",
+      "version": "3.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/mitt@3.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mkdirp",
+      "version": "3.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/mkdirp@3.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mongodb-driver-sync",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.mongodb/mongodb-driver-sync"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.mongodb"
+  },
+  {
+    "dependency": {
+      "name": "motion-dom",
+      "version": "12.12.1",
+      "type": "npm",
+      "purl": "pkg:npm/motion-dom@12.12.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "motion-utils",
+      "version": "12.12.1",
+      "type": "npm",
+      "purl": "pkg:npm/motion-utils@12.12.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "ms",
+      "version": "2.1.3",
+      "type": "npm",
+      "purl": "pkg:npm/ms@2.1.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "mustache",
+      "version": "4.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/mustache@4.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "nacos-client",
+      "version": "3.1.0",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.nacos/nacos-client@3.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.nacos"
+  },
+  {
+    "dependency": {
+      "name": "nacos-client-mse-extension",
+      "version": "1.0.6",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.nacos/nacos-client-mse-extension@1.0.6"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.nacos"
+  },
+  {
+    "dependency": {
+      "name": "nacos-maintainer-client",
+      "version": "3.1.0",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.nacos/nacos-maintainer-client@3.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.nacos"
+  },
+  {
+    "dependency": {
+      "name": "nanoid",
+      "version": "3.3.11",
+      "type": "npm",
+      "purl": "pkg:npm/nanoid@3.3.11"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "napi-postinstall",
+      "version": "0.2.4",
+      "type": "npm",
+      "purl": "pkg:npm/napi-postinstall@0.2.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "natural-compare",
+      "version": "1.4.0",
+      "type": "npm",
+      "purl": "pkg:npm/natural-compare@1.4.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "next",
+      "version": "15.3.2",
+      "type": "npm",
+      "purl": "pkg:npm/next@15.3.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "next-themes",
+      "version": "0.4.6",
+      "type": "npm",
+      "purl": "pkg:npm/next-themes@0.4.6"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "node-domexception",
+      "version": "1.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/node-domexception@1.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "node-fetch",
+      "version": "2.7.0",
+      "type": "npm",
+      "purl": "pkg:npm/node-fetch@2.7.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "node-releases",
+      "version": "2.0.19",
+      "type": "npm",
+      "purl": "pkg:npm/node-releases@2.0.19"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "normalize-range",
+      "version": "0.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/normalize-range@0.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "nuqs",
+      "version": "2.4.3",
+      "type": "npm",
+      "purl": "pkg:npm/nuqs@2.4.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "object-assign",
+      "version": "4.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/object-assign@4.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "object-inspect",
+      "version": "1.13.4",
+      "type": "npm",
+      "purl": "pkg:npm/object-inspect@1.13.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "object-keys",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/object-keys@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "object.assign",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/object.assign@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "object.entries",
+      "version": "1.1.9",
+      "type": "npm",
+      "purl": "pkg:npm/object.entries@1.1.9"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "object.fromentries",
+      "version": "2.0.8",
+      "type": "npm",
+      "purl": "pkg:npm/object.fromentries@2.0.8"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "object.groupby",
+      "version": "1.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/object.groupby@1.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "object.values",
+      "version": "1.2.1",
+      "type": "npm",
+      "purl": "pkg:npm/object.values@1.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "openai",
+      "version": "4.100.0",
+      "type": "npm",
+      "purl": "pkg:npm/openai@4.100.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "opentelemetry-api",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/io.opentelemetry/opentelemetry-api"
+    },
+    "vulnerabilities": [],
+    "vendor": "io.opentelemetry"
+  },
+  {
+    "dependency": {
+      "name": "optionator",
+      "version": "0.9.4",
+      "type": "npm",
+      "purl": "pkg:npm/optionator@0.9.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "own-keys",
+      "version": "1.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/own-keys@1.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "p-finally",
+      "version": "1.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/p-finally@1.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "p-limit",
+      "version": "3.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/p-limit@3.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "p-locate",
+      "version": "5.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/p-locate@5.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "p-queue",
+      "version": "6.6.2",
+      "type": "npm",
+      "purl": "pkg:npm/p-queue@6.6.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "p-retry",
+      "version": "4.6.2",
+      "type": "npm",
+      "purl": "pkg:npm/p-retry@4.6.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "p-timeout",
+      "version": "3.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/p-timeout@3.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "parent-module",
+      "version": "1.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/parent-module@1.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "parse-entities",
+      "version": "2.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/parse-entities@2.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "parse-entities",
+      "version": "4.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/parse-entities@4.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "parse5",
+      "version": "7.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/parse5@7.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "path-exists",
+      "version": "4.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/path-exists@4.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "path-key",
+      "version": "3.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/path-key@3.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "path-parse",
+      "version": "1.0.7",
+      "type": "npm",
+      "purl": "pkg:npm/path-parse@1.0.7"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "picocolors",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/picocolors@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "picomatch",
+      "version": "2.3.1",
+      "type": "npm",
+      "purl": "pkg:npm/picomatch@2.3.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "picomatch",
+      "version": "4.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/picomatch@4.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "playwright",
+      "version": "1.52.0",
+      "type": "npm",
+      "purl": "pkg:npm/playwright@1.52.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "playwright-core",
+      "version": "1.52.0",
+      "type": "npm",
+      "purl": "pkg:npm/playwright-core@1.52.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "polyglot",
+      "version": "24.2.1",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.graalvm.polyglot/polyglot@24.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.graalvm.polyglot"
+  },
+  {
+    "dependency": {
+      "name": "possible-typed-array-names",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/possible-typed-array-names@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "postcss",
+      "version": "8.4.31",
+      "type": "npm",
+      "purl": "pkg:npm/postcss@8.4.31"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "postcss",
+      "version": "8.5.3",
+      "type": "npm",
+      "purl": "pkg:npm/postcss@8.5.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "postcss-modules",
+      "version": "6.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/postcss-modules@6.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "postcss-modules-extract-imports",
+      "version": "3.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/postcss-modules-extract-imports@3.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "postcss-modules-local-by-default",
+      "version": "4.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/postcss-modules-local-by-default@4.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "postcss-modules-scope",
+      "version": "3.2.1",
+      "type": "npm",
+      "purl": "pkg:npm/postcss-modules-scope@3.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "postcss-modules-values",
+      "version": "4.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/postcss-modules-values@4.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "postcss-selector-parser",
+      "version": "7.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/postcss-selector-parser@7.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "postcss-value-parser",
+      "version": "4.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/postcss-value-parser@4.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "postgresql",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.testcontainers/postgresql"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.testcontainers"
+  },
+  {
+    "dependency": {
+      "name": "postgresql",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.postgresql/postgresql"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.postgresql"
+  },
+  {
+    "dependency": {
+      "name": "prelude-ls",
+      "version": "1.2.1",
+      "type": "npm",
+      "purl": "pkg:npm/prelude-ls@1.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "prettier",
+      "version": "3.5.3",
+      "type": "npm",
+      "purl": "pkg:npm/prettier@3.5.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "prettier-plugin-tailwindcss",
+      "version": "0.6.11",
+      "type": "npm",
+      "purl": "pkg:npm/prettier-plugin-tailwindcss@0.6.11"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "prism-react-renderer",
+      "version": "2.4.1",
+      "type": "npm",
+      "purl": "pkg:npm/prism-react-renderer@2.4.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "prismjs",
+      "version": "1.27.0",
+      "type": "npm",
+      "purl": "pkg:npm/prismjs@1.27.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "prismjs",
+      "version": "1.30.0",
+      "type": "npm",
+      "purl": "pkg:npm/prismjs@1.30.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "prop-types",
+      "version": "15.8.1",
+      "type": "npm",
+      "purl": "pkg:npm/prop-types@15.8.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "property-information",
+      "version": "5.6.0",
+      "type": "npm",
+      "purl": "pkg:npm/property-information@5.6.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "property-information",
+      "version": "7.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/property-information@7.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "punycode",
+      "version": "2.3.1",
+      "type": "npm",
+      "purl": "pkg:npm/punycode@2.3.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "python-community",
+      "version": "24.2.1",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.graalvm.polyglot/python-community@24.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.graalvm.polyglot"
+  },
+  {
+    "dependency": {
+      "name": "queue-microtask",
+      "version": "1.2.3",
+      "type": "npm",
+      "purl": "pkg:npm/queue-microtask@1.2.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "react",
+      "version": "19.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/react@19.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "react-dom",
+      "version": "19.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/react-dom@19.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "react-is",
+      "version": "16.13.1",
+      "type": "npm",
+      "purl": "pkg:npm/react-is@16.13.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "react-is",
+      "version": "18.3.1",
+      "type": "npm",
+      "purl": "pkg:npm/react-is@18.3.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "react-markdown",
+      "version": "10.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/react-markdown@10.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "react-remove-scroll",
+      "version": "2.6.3",
+      "type": "npm",
+      "purl": "pkg:npm/react-remove-scroll@2.6.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "react-remove-scroll-bar",
+      "version": "2.3.8",
+      "type": "npm",
+      "purl": "pkg:npm/react-remove-scroll-bar@2.3.8"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "react-smooth",
+      "version": "4.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/react-smooth@4.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "react-style-singleton",
+      "version": "2.2.3",
+      "type": "npm",
+      "purl": "pkg:npm/react-style-singleton@2.2.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "react-syntax-highlighter",
+      "version": "15.6.1",
+      "type": "npm",
+      "purl": "pkg:npm/react-syntax-highlighter@15.6.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "react-transition-group",
+      "version": "4.4.5",
+      "type": "npm",
+      "purl": "pkg:npm/react-transition-group@4.4.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "reactor-core",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/io.projectreactor/reactor-core"
+    },
+    "vulnerabilities": [],
+    "vendor": "io.projectreactor"
+  },
+  {
+    "dependency": {
+      "name": "recharts",
+      "version": "2.15.3",
+      "type": "npm",
+      "purl": "pkg:npm/recharts@2.15.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "recharts-scale",
+      "version": "0.4.5",
+      "type": "npm",
+      "purl": "pkg:npm/recharts-scale@0.4.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "redisson",
+      "version": "3.22.0",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.redisson/redisson@3.22.0"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.redisson"
+  },
+  {
+    "dependency": {
+      "name": "reflect.getprototypeof",
+      "version": "1.0.10",
+      "type": "npm",
+      "purl": "pkg:npm/reflect.getprototypeof@1.0.10"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "refractor",
+      "version": "3.6.0",
+      "type": "npm",
+      "purl": "pkg:npm/refractor@3.6.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "regexp.prototype.flags",
+      "version": "1.5.4",
+      "type": "npm",
+      "purl": "pkg:npm/regexp.prototype.flags@1.5.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "rehype-katex",
+      "version": "7.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/rehype-katex@7.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "remark-gfm",
+      "version": "4.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/remark-gfm@4.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "remark-math",
+      "version": "6.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/remark-math@6.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "remark-parse",
+      "version": "11.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/remark-parse@11.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "remark-rehype",
+      "version": "11.1.2",
+      "type": "npm",
+      "purl": "pkg:npm/remark-rehype@11.1.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "remark-stringify",
+      "version": "11.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/remark-stringify@11.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "resolve",
+      "version": "1.22.10",
+      "type": "npm",
+      "purl": "pkg:npm/resolve@1.22.10"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "resolve",
+      "version": "2.0.0-next.5",
+      "type": "npm",
+      "purl": "pkg:npm/resolve@2.0.0-next.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "resolve-from",
+      "version": "4.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/resolve-from@4.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "resolve-pkg-maps",
+      "version": "1.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/resolve-pkg-maps@1.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "retry",
+      "version": "0.13.1",
+      "type": "npm",
+      "purl": "pkg:npm/retry@0.13.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "reusify",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/reusify@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "run-parallel",
+      "version": "1.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/run-parallel@1.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "safe-array-concat",
+      "version": "1.1.3",
+      "type": "npm",
+      "purl": "pkg:npm/safe-array-concat@1.1.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "safe-push-apply",
+      "version": "1.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/safe-push-apply@1.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "safe-regex-test",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/safe-regex-test@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "scheduler",
+      "version": "0.26.0",
+      "type": "npm",
+      "purl": "pkg:npm/scheduler@0.26.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "semver",
+      "version": "6.3.1",
+      "type": "npm",
+      "purl": "pkg:npm/semver@6.3.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "semver",
+      "version": "7.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/semver@7.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "set-function-length",
+      "version": "1.2.2",
+      "type": "npm",
+      "purl": "pkg:npm/set-function-length@1.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "set-function-name",
+      "version": "2.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/set-function-name@2.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "set-proto",
+      "version": "1.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/set-proto@1.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "sharp",
+      "version": "0.34.1",
+      "type": "npm",
+      "purl": "pkg:npm/sharp@0.34.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "shebang-command",
+      "version": "2.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/shebang-command@2.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "shebang-regex",
+      "version": "3.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/shebang-regex@3.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "side-channel",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/side-channel@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "side-channel-list",
+      "version": "1.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/side-channel-list@1.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "side-channel-map",
+      "version": "1.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/side-channel-map@1.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "side-channel-weakmap",
+      "version": "1.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/side-channel-weakmap@1.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "simple-swizzle",
+      "version": "0.2.2",
+      "type": "npm",
+      "purl": "pkg:npm/simple-swizzle@0.2.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "simple-wcswidth",
+      "version": "1.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/simple-wcswidth@1.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "slf4j-api",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.slf4j/slf4j-api"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.slf4j"
+  },
+  {
+    "dependency": {
+      "name": "slf4j-jdk14",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.slf4j/slf4j-jdk14"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.slf4j"
+  },
+  {
+    "dependency": {
+      "name": "sonner",
+      "version": "2.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/sonner@2.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "source-map-js",
+      "version": "1.2.1",
+      "type": "npm",
+      "purl": "pkg:npm/source-map-js@1.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "space-separated-tokens",
+      "version": "1.1.5",
+      "type": "npm",
+      "purl": "pkg:npm/space-separated-tokens@1.1.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "space-separated-tokens",
+      "version": "2.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/space-separated-tokens@2.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba",
+      "version": "1.1.0.0-SNAPSHOT",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba@1.1.0.0-SNAPSHOT"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba-agent-framework",
+      "version": "1.1.0.0-SNAPSHOT",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba-agent-framework@1.1.0.0-SNAPSHOT"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba-agent-framework",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba-agent-framework"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba-bom",
+      "version": "1.1.0.0-SNAPSHOT",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba-bom@1.1.0.0-SNAPSHOT"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba-graph-core",
+      "version": "1.1.0.0-SNAPSHOT",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba-graph-core@1.1.0.0-SNAPSHOT"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba-mcp-registry",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba-mcp-registry"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba-observation-extension",
+      "version": "1.1.0.0-M5",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba-observation-extension@1.1.0.0-M5"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba-starter-a2a-nacos",
+      "version": "1.1.0.0-SNAPSHOT",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba-starter-a2a-nacos@1.1.0.0-SNAPSHOT"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba-starter-a2a-nacos",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba-starter-a2a-nacos"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba-starter-config-nacos",
+      "version": "1.1.0.0-SNAPSHOT",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba-starter-config-nacos@1.1.0.0-SNAPSHOT"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba-starter-dashscope",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba-starter-dashscope"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba-starter-graph-observation",
+      "version": "1.1.0.0-SNAPSHOT",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba-starter-graph-observation@1.1.0.0-SNAPSHOT"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba-studio",
+      "version": "1.1.0.0-SNAPSHOT",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba-studio@1.1.0.0-SNAPSHOT"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-alibaba-studio",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/com.alibaba.cloud.ai/spring-ai-alibaba-studio"
+    },
+    "vulnerabilities": [],
+    "vendor": "com.alibaba.cloud.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-autoconfigure-retry",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.springframework.ai/spring-ai-autoconfigure-retry"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.springframework.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-client-chat",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.springframework.ai/spring-ai-client-chat"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.springframework.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-commons",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.springframework.ai/spring-ai-commons"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.springframework.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-openai",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.springframework.ai/spring-ai-openai"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.springframework.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-rag",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.springframework.ai/spring-ai-rag"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.springframework.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-retry",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.springframework.ai/spring-ai-retry"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.springframework.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-starter-mcp-client",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.springframework.ai/spring-ai-starter-mcp-client"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.springframework.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-starter-model-deepseek",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.springframework.ai/spring-ai-starter-model-deepseek"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.springframework.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-ai-starter-model-openai",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.springframework.ai/spring-ai-starter-model-openai"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.springframework.ai"
+  },
+  {
+    "dependency": {
+      "name": "spring-boot-configuration-processor",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.springframework.boot/spring-boot-configuration-processor"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.springframework.boot"
+  },
+  {
+    "dependency": {
+      "name": "spring-boot-starter",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.springframework.boot/spring-boot-starter"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.springframework.boot"
+  },
+  {
+    "dependency": {
+      "name": "spring-boot-starter-test",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.springframework.boot/spring-boot-starter-test"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.springframework.boot"
+  },
+  {
+    "dependency": {
+      "name": "spring-boot-starter-web",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.springframework.boot/spring-boot-starter-web"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.springframework.boot"
+  },
+  {
+    "dependency": {
+      "name": "springaialibaba/infra",
+      "version": "6a10230a282aa7b379e24df108131cc5a946bc5e",
+      "type": "github-action",
+      "purl": "pkg:github/springaialibaba/infra@6a10230a282aa7b379e24df108131cc5a946bc5e"
+    },
+    "vulnerabilities": [],
+    "vendor": "springaialibaba"
+  },
+  {
+    "dependency": {
+      "name": "stable-hash",
+      "version": "0.0.5",
+      "type": "npm",
+      "purl": "pkg:npm/stable-hash@0.0.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "streamsearch",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/streamsearch@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "string-hash",
+      "version": "1.1.3",
+      "type": "npm",
+      "purl": "pkg:npm/string-hash@1.1.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "string.prototype.includes",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/string.prototype.includes@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "string.prototype.matchall",
+      "version": "4.0.12",
+      "type": "npm",
+      "purl": "pkg:npm/string.prototype.matchall@4.0.12"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "string.prototype.repeat",
+      "version": "1.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/string.prototype.repeat@1.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "string.prototype.trim",
+      "version": "1.2.10",
+      "type": "npm",
+      "purl": "pkg:npm/string.prototype.trim@1.2.10"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "string.prototype.trimend",
+      "version": "1.0.9",
+      "type": "npm",
+      "purl": "pkg:npm/string.prototype.trimend@1.0.9"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "string.prototype.trimstart",
+      "version": "1.0.8",
+      "type": "npm",
+      "purl": "pkg:npm/string.prototype.trimstart@1.0.8"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "stringify-entities",
+      "version": "4.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/stringify-entities@4.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "strip-bom",
+      "version": "3.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/strip-bom@3.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "strip-json-comments",
+      "version": "3.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/strip-json-comments@3.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "style-to-js",
+      "version": "1.1.16",
+      "type": "npm",
+      "purl": "pkg:npm/style-to-js@1.1.16"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "style-to-object",
+      "version": "1.0.8",
+      "type": "npm",
+      "purl": "pkg:npm/style-to-object@1.0.8"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "styled-jsx",
+      "version": "5.1.6",
+      "type": "npm",
+      "purl": "pkg:npm/styled-jsx@5.1.6"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "supports-color",
+      "version": "7.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/supports-color@7.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "supports-preserve-symlinks-flag",
+      "version": "1.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/supports-preserve-symlinks-flag@1.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "tailwind-merge",
+      "version": "3.3.0",
+      "type": "npm",
+      "purl": "pkg:npm/tailwind-merge@3.3.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "tailwind-scrollbar",
+      "version": "4.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/tailwind-scrollbar@4.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss",
+      "version": "4.1.7",
+      "type": "npm",
+      "purl": "pkg:npm/tailwindcss@4.1.7"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "tailwindcss-animate",
+      "version": "1.0.7",
+      "type": "npm",
+      "purl": "pkg:npm/tailwindcss-animate@1.0.7"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "tapable",
+      "version": "2.2.1",
+      "type": "npm",
+      "purl": "pkg:npm/tapable@2.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "tar",
+      "version": "7.4.3",
+      "type": "npm",
+      "purl": "pkg:npm/tar@7.4.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "testcontainers",
+      "version": "UNKNOWN",
+      "type": "java-archive",
+      "purl": "pkg:maven/org.testcontainers/testcontainers"
+    },
+    "vulnerabilities": [],
+    "vendor": "org.testcontainers"
+  },
+  {
+    "dependency": {
+      "name": "tiny-invariant",
+      "version": "1.3.3",
+      "type": "npm",
+      "purl": "pkg:npm/tiny-invariant@1.3.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "tinyglobby",
+      "version": "0.2.13",
+      "type": "npm",
+      "purl": "pkg:npm/tinyglobby@0.2.13"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "to-regex-range",
+      "version": "5.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/to-regex-range@5.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "tr46",
+      "version": "0.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/tr46@0.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "trim-lines",
+      "version": "3.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/trim-lines@3.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "trough",
+      "version": "2.2.0",
+      "type": "npm",
+      "purl": "pkg:npm/trough@2.2.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "ts-api-utils",
+      "version": "2.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/ts-api-utils@2.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "tsconfig-paths",
+      "version": "3.15.0",
+      "type": "npm",
+      "purl": "pkg:npm/tsconfig-paths@3.15.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "tslib",
+      "version": "2.8.1",
+      "type": "npm",
+      "purl": "pkg:npm/tslib@2.8.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "type-check",
+      "version": "0.4.0",
+      "type": "npm",
+      "purl": "pkg:npm/type-check@0.4.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "typed-array-buffer",
+      "version": "1.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/typed-array-buffer@1.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "typed-array-byte-length",
+      "version": "1.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/typed-array-byte-length@1.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "typed-array-byte-offset",
+      "version": "1.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/typed-array-byte-offset@1.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "typed-array-length",
+      "version": "1.0.7",
+      "type": "npm",
+      "purl": "pkg:npm/typed-array-length@1.0.7"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "typescript",
+      "version": "5.7.3",
+      "type": "npm",
+      "purl": "pkg:npm/typescript@5.7.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "typescript-eslint",
+      "version": "8.32.1",
+      "type": "npm",
+      "purl": "pkg:npm/typescript-eslint@8.32.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "unbox-primitive",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/unbox-primitive@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "undici-types",
+      "version": "5.26.5",
+      "type": "npm",
+      "purl": "pkg:npm/undici-types@5.26.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "undici-types",
+      "version": "6.21.0",
+      "type": "npm",
+      "purl": "pkg:npm/undici-types@6.21.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "unified",
+      "version": "11.0.5",
+      "type": "npm",
+      "purl": "pkg:npm/unified@11.0.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "unist-util-find-after",
+      "version": "5.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/unist-util-find-after@5.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "unist-util-is",
+      "version": "6.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/unist-util-is@6.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "unist-util-position",
+      "version": "5.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/unist-util-position@5.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "unist-util-remove-position",
+      "version": "5.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/unist-util-remove-position@5.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "unist-util-stringify-position",
+      "version": "4.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/unist-util-stringify-position@4.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "unist-util-visit",
+      "version": "5.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/unist-util-visit@5.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "unist-util-visit-parents",
+      "version": "6.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/unist-util-visit-parents@6.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "unrs-resolver",
+      "version": "1.7.2",
+      "type": "npm",
+      "purl": "pkg:npm/unrs-resolver@1.7.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "update-browserslist-db",
+      "version": "1.1.3",
+      "type": "npm",
+      "purl": "pkg:npm/update-browserslist-db@1.1.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "uri-js",
+      "version": "4.4.1",
+      "type": "npm",
+      "purl": "pkg:npm/uri-js@4.4.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "use-callback-ref",
+      "version": "1.3.3",
+      "type": "npm",
+      "purl": "pkg:npm/use-callback-ref@1.3.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "use-sidecar",
+      "version": "1.1.3",
+      "type": "npm",
+      "purl": "pkg:npm/use-sidecar@1.1.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "use-stick-to-bottom",
+      "version": "1.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/use-stick-to-bottom@1.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "use-sync-external-store",
+      "version": "1.5.0",
+      "type": "npm",
+      "purl": "pkg:npm/use-sync-external-store@1.5.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "util-deprecate",
+      "version": "1.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/util-deprecate@1.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "uuid",
+      "version": "10.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/uuid@10.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "uuid",
+      "version": "11.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/uuid@11.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "uuid",
+      "version": "9.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/uuid@9.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "vfile",
+      "version": "6.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/vfile@6.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "vfile-location",
+      "version": "5.0.3",
+      "type": "npm",
+      "purl": "pkg:npm/vfile-location@5.0.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "vfile-message",
+      "version": "4.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/vfile-message@4.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "victory-vendor",
+      "version": "36.9.2",
+      "type": "npm",
+      "purl": "pkg:npm/victory-vendor@36.9.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "web-namespaces",
+      "version": "2.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/web-namespaces@2.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "web-streams-polyfill",
+      "version": "4.0.0-beta.3",
+      "type": "npm",
+      "purl": "pkg:npm/web-streams-polyfill@4.0.0-beta.3"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "webidl-conversions",
+      "version": "3.0.1",
+      "type": "npm",
+      "purl": "pkg:npm/webidl-conversions@3.0.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "whatwg-url",
+      "version": "5.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/whatwg-url@5.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "which",
+      "version": "2.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/which@2.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "which-boxed-primitive",
+      "version": "1.1.1",
+      "type": "npm",
+      "purl": "pkg:npm/which-boxed-primitive@1.1.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "which-builtin-type",
+      "version": "1.2.1",
+      "type": "npm",
+      "purl": "pkg:npm/which-builtin-type@1.2.1"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "which-collection",
+      "version": "1.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/which-collection@1.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "which-typed-array",
+      "version": "1.1.19",
+      "type": "npm",
+      "purl": "pkg:npm/which-typed-array@1.1.19"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "word-wrap",
+      "version": "1.2.5",
+      "type": "npm",
+      "purl": "pkg:npm/word-wrap@1.2.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "ws",
+      "version": "8.18.2",
+      "type": "npm",
+      "purl": "pkg:npm/ws@8.18.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "xtend",
+      "version": "4.0.2",
+      "type": "npm",
+      "purl": "pkg:npm/xtend@4.0.2"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "yallist",
+      "version": "5.0.0",
+      "type": "npm",
+      "purl": "pkg:npm/yallist@5.0.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "yocto-queue",
+      "version": "0.1.0",
+      "type": "npm",
+      "purl": "pkg:npm/yocto-queue@0.1.0"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "zod",
+      "version": "3.24.4",
+      "type": "npm",
+      "purl": "pkg:npm/zod@3.24.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "zod-to-json-schema",
+      "version": "3.24.5",
+      "type": "npm",
+      "purl": "pkg:npm/zod-to-json-schema@3.24.5"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  },
+  {
+    "dependency": {
+      "name": "zwitch",
+      "version": "2.0.4",
+      "type": "npm",
+      "purl": "pkg:npm/zwitch@2.0.4"
+    },
+    "vulnerabilities": [],
+    "vendor": null
+  }
+]

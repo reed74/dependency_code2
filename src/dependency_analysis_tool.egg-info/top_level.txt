@@ -1,0 +1,4 @@
+adapters
+application
+domain
+entrypoints

@@ -1,0 +1,56 @@
+[
+  {
+    "dependency": {
+      "name": "python-dotenv",
+      "version": "1.2.1",
+      "type": "python",
+      "purl": null
+    },
+    "vulnerabilities": []
+  },
+  {
+    "dependency": {
+      "name": "psycopg-binary",
+      "version": "3.2.13",
+      "type": "python",
+      "purl": null
+    },
+    "vulnerabilities": []
+  },
+  {
+    "dependency": {
+      "name": "cyclonedx-python-lib",
+      "version": "11.5.0",
+      "type": "python",
+      "purl": null
+    },
+    "vulnerabilities": []
+  },
+  {
+    "dependency": {
+      "name": "psycopg2-binary",
+      "version": "2.9.11",
+      "type": "python",
+      "purl": null
+    },
+    "vulnerabilities": []
+  },
+  {
+    "dependency": {
+      "name": "requests",
+      "version": "2.32.5",
+      "type": "python",
+      "purl": null
+    },
+    "vulnerabilities": []
+  },
+  {
+    "dependency": {
+      "name": "tqdm",
+      "version": "4.67.1",
+      "type": "python",
+      "purl": null
+    },
+    "vulnerabilities": []
+  }
+]

@@ -1,0 +1,19 @@
+[project]
+name = "dependency-analysis-tool"
+version = "0.1.0"
+description = "A tool to analyze dependencies and check for vulnerabilities using Syft and Postgres."
+authors = [
+    {name = "User", email = "user@example.com"},
+]
+dependencies = [
+    "sqlalchemy>=2.0.0",
+    "psycopg2-binary>=2.9.0",
+]
+requires-python = ">=3.8"
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project.scripts]
+analyze-deps = "src.entrypoints.cli:main"
