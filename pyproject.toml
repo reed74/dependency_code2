@@ -1,9 +1,9 @@
 [project]
 name = "dependency-analysis-tool"
 version = "0.1.0"
-description = "A tool to analyze dependencies and check for vulnerabilities using Syft and Postgres."
+description = "herramienta de análisis de dependencias"
 authors = [
-    {name = "User", email = "user@example.com"},
+    {name = "reed74"},
 ]
 dependencies = [
     "sqlalchemy>=2.0.0",
