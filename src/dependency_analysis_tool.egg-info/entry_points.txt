@@ -1,2 +1,0 @@
-[console_scripts]
-analyze-deps = src.entrypoints.cli:main

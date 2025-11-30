@@ -1,8 +1,0 @@
-Metadata-Version: 2.4
-Name: dependency-analysis-tool
-Version: 0.1.0
-Summary: A tool to analyze dependencies and check for vulnerabilities using Syft and Postgres.
-Author-email: User <user@example.com>
-Requires-Python: >=3.8
-Requires-Dist: sqlalchemy>=2.0.0
-Requires-Dist: psycopg2-binary>=2.9.0

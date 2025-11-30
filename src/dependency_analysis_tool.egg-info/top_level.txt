@@ -1,4 +1,0 @@
-adapters
-application
-domain
-entrypoints
